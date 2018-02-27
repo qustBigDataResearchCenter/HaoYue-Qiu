@@ -67,5 +67,9 @@ The_Shawshank_Redemption=media.Movie("The Shawshank Redemption",
 
 
 movies=[War_Horse,Flipped,Wonder,The_Chorus,This_killer_is_not_too_cold,The_Shawshank_Redemption]
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+
+#print(media.Movie.VALID_PATINGS)
+
+print(media.Movie.__doc__)
 
